@@ -1,3 +1,3 @@
-# Spring-Boot-JPA-Postgres-Demo
+# Spring-Boot-Postgres-Demo
 
-Practicing Spring-Boot with Spring-Data-JPA and PostgreSQL database
+Exploring Spring Boot with Spring Data JPA and a PostgreSQL database
